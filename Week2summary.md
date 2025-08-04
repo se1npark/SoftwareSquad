@@ -1,0 +1,1 @@
+a summary of the groups activities during this class. You can keep it fairly simple, you want it to be a memory aid if you ever have to explain to someone what your group did in this class
