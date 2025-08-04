@@ -17,5 +17,10 @@ public class Names {
         	System.out.println("╔═╗┌─┐┌─┐┬┌─");
         	System.out.println("║  │ ││ │├┴┐");
         	System.out.println("╚═╝└─┘└─┘┴ ┴");
-    }
+    	}
+
+	public static void PrintNames(){
+		System.out.println("Hello!");
+		
+	}
 }
