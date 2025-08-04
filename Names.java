@@ -4,6 +4,7 @@ public class Names {
 		// Put your signature function on the below line!
 		PrintHarrisSig();
 		PrintTenzinSig();
+		PrintSiennaSig();
 		// Put your signature function on the above line!
 	}
 	
@@ -11,4 +12,10 @@ public class Names {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
 	}
+
+	public static void PrintSiennaSig() {
+        	System.out.println("╔═╗┌─┐┌─┐┬┌─");
+        	System.out.println("║  │ ││ │├┴┐");
+        	System.out.println("╚═╝└─┘└─┘┴ ┴");
+    }
 }
