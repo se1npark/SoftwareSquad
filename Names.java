@@ -10,4 +10,7 @@ public class Names {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
 	}
+	public static void PrintNames(){
+		
+	}
 }
