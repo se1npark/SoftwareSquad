@@ -1,1 +1,14 @@
 list of topics for the whole unit
+1 Team Based Learning
+2 Version Control
+3 Objects and Classes
+4 Inheritance and Overloading
+5 Generics
+6 Exceptions
+7 Patterns 1
+8 Patterns 2
+9 Patterns 3
+10 Lambdas
+11 Streams 1
+12 Streams 2
+13 tbd
